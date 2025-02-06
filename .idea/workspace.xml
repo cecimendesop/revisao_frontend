@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="858c96b7-bfb0-4722-acfe-3033318da89e" name="Changes" comment="atividade letterboxd - lucas">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/revisao_frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/displayflex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/displayflex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/letterboxd.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/letterboxd2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/taxidriver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/letterboxd3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/letterboxd4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/letterboxd5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1.css" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cecimendesop/revisao_frontend.git",
-    "accountId": "a45f1c70-851c-473f-8e20-0aeb61ee5b06"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cecimendesop&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cecimendesop/revisao_frontend.git&quot;,
+    &quot;accountId&quot;: &quot;a45f1c70-851c-473f-8e20-0aeb61ee5b06&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -52,24 +49,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.displayflex.html.executor": "Run",
-    "JavaScript Debug.ex1.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/senai_2024/PycharmProjects/revisao_frontend/static",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.displayflex.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ex1.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/senai_2024/PycharmProjects/revisao_frontend/static&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\senai_2024\PycharmProjects\revisao_frontend\static" />
@@ -92,8 +89,18 @@
       <option name="presentableId" value="Default" />
       <updated>1738347323489</updated>
       <workItem from="1738347324922" duration="4317000" />
-      <workItem from="1738838685496" duration="11329000" />
+      <workItem from="1738838685496" duration="11674000" />
+      <workItem from="1738855893953" duration="5713000" />
     </task>
+    <task id="LOCAL-00001" summary="atividade letterboxd - lucas">
+      <option name="closed" value="true" />
+      <created>1738851944348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738851944348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

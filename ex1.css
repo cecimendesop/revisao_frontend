@@ -1,14 +1,21 @@
 body {
     font-family: 'Outfit', sans-serif;
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimento */
+    height: 100%; /* Garante que o corpo ocupe 100% da altura da tela */
+    overflow-y: hidden; /* Impede rolagem vertical */
+    overflow-x: hidden;
+    width: 100%;
 }
+
 
 .div-row {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 99%;
     background-color: #1D2830FF;
     justify-content: flex-end;
-    margin: 5px;
+    margin: 10px;
 }
 
 a {
@@ -38,19 +45,22 @@ a {
 
 .container {
     background-color: #1D2830FF;
-    height: 45vh;
-    margin: 4px;
+    height: auto; /* Permite que a altura se ajuste ao conteúdo */
+    min-height: auto;
+    margin: 10px;
     width: 100%;
     display: flex;
+    flex-direction: row-reverse;
     gap: 20px;
-
 }
+
 
 .textocontainer {
     color: #faf6f6;
     font-size: 20px;
     width: 78vw;
-    align-content: center;
+    text-align: center;
+    margin: 50px;
 }
 
 .imagem {
@@ -58,13 +68,14 @@ a {
     padding: 15px;
     max-width: 300px; /* Ajuste conforme necessário */
     height: auto;
+
 }
 
 .textobloco {
     color: #faf6f6;
-    align-content: center;
     font-size: 15px;
-    margin: 20px;
+    margin-top: 10px;
+    max-width: 80%;
 }
 
 .textobloco2 {
@@ -73,33 +84,44 @@ a {
     font-size: 15px;
     margin: 22px;
 }
+
+
+
 .imagem2 {
-    display: block;
-    padding: 15px;
-    max-width: 300px; /* Ajuste conforme necessário */
-    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: flex-start; /* Alinha o texto ao início */
+    padding-left: 10px; /* Ajuste conforme necessário */
+    height: 100%; /* Garante que o flex funcione corretamente */
 }
 
 .bloco {
     background-color: #1D2830FF;
     display: flex;
-    justify-content: stretch;
-    margin: 5px;
-    height: 260px;
-    width: 450px;
-    flex-direction: row;
+    flex-direction: column; /* Mantém os itens organizados verticalmente */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 30%; /* Ajustado para três blocos lado a lado */
+    height: 250px;
+    padding: 17px;
+
 }
 
+
 .ultima {
-    background-color: #faf6f6;
     display: flex;
-    flex-direction: row;
+    flex-direction: row; /* Mantém os blocos lado a lado */
+    flex-wrap: nowrap; /* Evita que os blocos quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os blocos horizontalmente */
+    align-items: stretch; /* Faz com que todos os blocos tenham a mesma altura */
+    gap: 20px; /* Espaçamento entre os blocos */
+    background-color: #faf6f6;
     width: 100%;
-    height: 40vh;
-    margin: 2px;
-    justify-content: space-between;
-    align-items: center;
+    margin: 4px;
 }
+
 
 
 
